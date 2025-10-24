@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DMitt Favoritrecept</title>
+</head>
+<body>
+    <h1>Pasta carbonara</h1>
+    <h2>Ingredienser</h2>
+    <ul>250 g, Pasta, 2 ägg, 200 g ost, 300 g bacon</ul>
+    <h2>Instruktioner</h2>
+    <ol>Steg 1. Koka Pasta Steg 2. stek Bacon Steg 3. blanda ägg och riven ost Steg 4 lägg ihop allting.</ol>
+    <p>Tack för att ni har använt mitt recept</p>
+<!--Under är länk-->
+<a href="https://www.jennysmatblogg.nu/2023/08/30/jennys-kramiga-pasta-carbonara/">Recept</a>
+  
+</body>
+</html>
