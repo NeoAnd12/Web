@@ -1,0 +1,70 @@
+    h1 {
+        background-color: darkred; color: green;padding: 15px; margin: auto; border: 5px solid darkgreen; width: 300px; font-family: cursive ; text-align: center; text-shadow: 10px 10px 5px black; 
+    }
+    body {
+        background-color: rgb(18, 146, 7);
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .gift { border: 5px outset darkgreen; width: 200px; margin: auto; padding: 3px; font-family: cursive; background-color: darkred; color: green; height: 100px; font-size: 30px; text-align: center;  text-shadow: 10px 10px 5px black; font-size: 38px; border-radius: 15px;
+    }
+    a{
+        text-decoration: none;
+        color: green;
+        font-family: cursive;
+        font-size: 20px;
+    }
+    #div1 {
+           
+    }
+
+    #div2 {
+      
+    }
+    #div3 {
+      
+    }
+    h1:hover{
+        background-color: green; color: darkred; border: darkred 5px outset;
+    }
+
+    .gift:hover{
+        background-color: green; color: darkred; border: darkred 5px outset;
+    }
+    #div2:hover{
+       
+    }
+    #div3:hover{
+        
+    }
+    img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    div#div1{
+  margin-left: 0px;
+}
+div#div2{
+    margin-left: 368px;
+}
+div#div3{
+    margin-left: 584px;
+}
+div#div3{
+    margin-top: 20px;
+}
+div#div1{
+    margin-top: 50px;
+    margin-left: 368px;
+}
+div#div2{
+    margin-left: 584px;
+}
+div#div3{
+    margin-left:800px;
+    margin-top: 0px;
+}
+
